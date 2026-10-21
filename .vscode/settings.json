@@ -138,5 +138,6 @@
     "**/*-worktree-*": true,
     "**/*-issues-*": true,
     "**/*-reorg*": true
-  }
+  },
+  "chat.permissions.default": "autopilot"
 }
